@@ -25,8 +25,7 @@ spam_email_detection/
 │ └─ preprocess.py # Text cleaning
 ├─ templates/ # Frontend HTML files
 │ └─ index.html
-├─ README.md
-└─ requirements.txt
+
 
 ---
 
